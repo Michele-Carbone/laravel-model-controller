@@ -19,6 +19,7 @@
               </div>
             </div>
           </div>
+          
         @empty
             <h2 class="text-center">Nessun libro disponibile</h2>
         @endforelse
